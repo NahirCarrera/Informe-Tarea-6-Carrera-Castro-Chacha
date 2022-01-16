@@ -16,6 +16,7 @@
 ## 2. Resumen
   # CAPÍTULO 11: <p align=center> Introducción a la corriente y al voltaje alternos.
 ## <p align=center> 11.1 La forma de onda sinusoidal 
+![11 1](https://user-images.githubusercontent.com/93786746/149648634-94a76abb-9c1e-4602-91e1-6988a332ebd0.png)
 
 ## <p align=center> 11.2 Fuentes de voltaje sinusoidal
 
