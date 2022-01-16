@@ -65,7 +65,7 @@
 
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
-   Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Análisis de ramas, lazos y nodos" y "Magnetismno y electromagnetismo".
+   Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Introducción a la corriente y al voltaje alternos" y "Capacitores".
   ### Capítulo 11 - Ejercicios
 
 
