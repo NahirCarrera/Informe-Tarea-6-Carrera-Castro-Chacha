@@ -27,6 +27,8 @@
 
 
 ## <p align=center> 11.4  Medición angular de una onda seno  
+![11 4](https://user-images.githubusercontent.com/93786746/149677848-605861dd-c7ac-49ce-907d-c504a049709d.png)
+
 
 ## <p align=center> 11.5  La fórmula de la onda seno 
 
