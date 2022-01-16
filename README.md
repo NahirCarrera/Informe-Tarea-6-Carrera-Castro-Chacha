@@ -19,9 +19,11 @@
 ![11 1](https://user-images.githubusercontent.com/93786746/149648634-94a76abb-9c1e-4602-91e1-6988a332ebd0.png)
 
 ## <p align=center> 11.2 Fuentes de voltaje sinusoidal
+![11 2](https://user-images.githubusercontent.com/93786746/149673980-e498cd4a-fb43-47b8-a4ff-c840bb948e4b.png)
 
 
 ## <p align=center> 11.3 Valores sinusoidales de voltaje y corriente
+![11 3](https://user-images.githubusercontent.com/93786746/149673986-6690373d-521a-4eca-8c6c-f48cfa273801.png)
 
 
 ## <p align=center> 11.4  Medición angular de una onda seno  
