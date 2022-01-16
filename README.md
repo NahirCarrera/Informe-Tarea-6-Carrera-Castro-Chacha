@@ -46,22 +46,22 @@
 
 
 ## <p align=center> 12.3 Capacitores en serie
-
+![12 3](https://user-images.githubusercontent.com/93829962/149646432-5439dfff-e1f9-45b3-be3f-f9e134503c7e.jpeg)
 
 ## <p align=center> 12.4  Capacitores en paralelo
+![12 4](https://user-images.githubusercontent.com/93829962/149646440-ab26512a-f0f0-4a11-98a8-f294e731ed0e.jpeg)
 
-  
 ## <p align=center> 12.5  Capacitores en circuitos de CD
+![12 5](https://user-images.githubusercontent.com/93829962/149646443-b9b9c124-41b9-4a79-88e3-dca309dd4792.jpeg)
 
-  
 ## <p align=center> 12.6  Capacitores en circuitos de CA
+![12 6](https://user-images.githubusercontent.com/93829962/149646447-085c6ad7-1ad9-4747-b256-d6de2dfd1c7c.jpeg)
 
-  
 ## <p align=center> 12.7  Aplicaciones de los capacitores 
-  
-  
+![12 7](https://user-images.githubusercontent.com/93829962/149646449-477b43e4-069e-4a6e-a95f-711bbe52e684.jpeg)
+ 
 ## <p align=center> 12.8  Circuitos de capacitor conmutados Una aplicación de circuito  
-
+![12 8](https://user-images.githubusercontent.com/93829962/149646451-c5148f86-6aae-4dae-8c0b-c61360c37e49.jpeg)
 
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
