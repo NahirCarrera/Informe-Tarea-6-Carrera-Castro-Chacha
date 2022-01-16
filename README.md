@@ -23,7 +23,7 @@
 
 
 ## <p align=center> 11.3 Valores sinusoidales de voltaje y corriente
-![11 3](https://user-images.githubusercontent.com/93786746/149673986-6690373d-521a-4eca-8c6c-f48cfa273801.png)
+![11 3](https://user-images.githubusercontent.com/93786746/149674107-ab213763-57d7-419d-aa04-d3b0d0939690.png)
 
 
 ## <p align=center> 11.4  Medición angular de una onda seno  
