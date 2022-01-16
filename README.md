@@ -31,6 +31,7 @@
 
 
 ## <p align=center> 11.5  La fórmula de la onda seno 
+![11 5](https://user-images.githubusercontent.com/93786746/149683331-709b4fc0-5467-45c0-ba95-a2253ab0a912.png)
 
 ## <p align=center> 11.6  Introducción a los fasores
   
