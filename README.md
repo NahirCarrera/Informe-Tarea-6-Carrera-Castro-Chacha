@@ -10,9 +10,9 @@
   ### General: 
   * Analizar los temas comprendidos entre los capítulos 11 y 12 del libro Principios de Circuitos Eléctricos empleando mapas mentales y conceptuales para una posterior resolución de los ejercicios impares planteados.
   ### Específicos
-  *   
-  * 
-  *  
+  * Explicar los temas sobre corriente y voltaje alterno así como los capacitores a través de organizadores gráficos para una comprensión adecuada del tema.
+  * Conocer los conceptos básicos sobre fasores para su posterior aplicación en circuitos que funcionan con voltaje y corriene sinusoidales.
+  * Aplicar conocimientos adquiridos durante la elaboración de ideógrafos sobre los capítulos 11 y 12 para una resolución satisfactoria de los ejercicios planteados.
 ## 2. Resumen
   # CAPÍTULO 11: <p align=center> Introducción a la corriente y al voltaje alternos.
 ## <p align=center> 11.1 La forma de onda sinusoidal 
