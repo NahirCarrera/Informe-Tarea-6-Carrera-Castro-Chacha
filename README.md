@@ -34,6 +34,7 @@
 ![11 5](https://user-images.githubusercontent.com/93786746/149683331-709b4fc0-5467-45c0-ba95-a2253ab0a912.png)
 
 ## <p align=center> 11.6  Introducción a los fasores
+![11 6](https://user-images.githubusercontent.com/93786746/149684862-bebaafb8-bf8a-4db0-93cf-456481907419.png)
   
 ## <p align=center> 11.7  Análisis de circuitos de CA
   
