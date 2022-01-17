@@ -37,7 +37,8 @@
 ![11 6](https://user-images.githubusercontent.com/93786746/149684862-bebaafb8-bf8a-4db0-93cf-456481907419.png)
   
 ## <p align=center> 11.7  Análisis de circuitos de CA
-  
+![Subtema 11 7](https://user-images.githubusercontent.com/93829976/149705727-24d4066c-6455-42db-8a06-6d0d9a0abb82.jpeg)
+
 ## <p align=center> 11.8   Voltajes superpuestos de CD y de CA 
   
 ## <p align=center> 11.9   Formas de onda no sinusoidales
