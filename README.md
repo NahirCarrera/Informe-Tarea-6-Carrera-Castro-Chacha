@@ -74,11 +74,20 @@
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Introducción a la corriente y al voltaje alternos" y "Capacitores".
+  
   ### Capítulo 11 - Ejercicios
-
+  
+![Cap 11 17-19](https://user-images.githubusercontent.com/93829962/149817389-dcc40450-ebdc-4a85-ab79-bf9c51f36663.JPG)
+![Cap 11 21-23](https://user-images.githubusercontent.com/93829962/149817396-3025f594-5f5d-4d78-8c08-77769ecf1915.JPG)
+![Cap 11 25-27](https://user-images.githubusercontent.com/93829962/149817405-b9500f2e-0052-4098-84b9-e12eaa178107.JPG)
+![Cap 11 29-31](https://user-images.githubusercontent.com/93829962/149817407-13f0fac6-02d0-44d3-a7ed-5438f2483976.JPG)
 
   ### Capítulo 12 - Ejercicios
 
+![Cap 12 19-21](https://user-images.githubusercontent.com/93829962/149817439-1b6d18a8-215a-46fe-9826-6167e8f9c357.JPG)
+![Cap 12 23-25](https://user-images.githubusercontent.com/93829962/149817454-b5c953f0-53ae-4d63-8a94-d856e602b793.JPG)
+![Cap 12 27-29](https://user-images.githubusercontent.com/93829962/149817457-e3ce50ed-843d-4ddb-a995-83569711ecca.JPG)
+![Cap 12 31-33-35](https://user-images.githubusercontent.com/93829962/149817477-9a090f6f-f7e8-4437-bbf5-e116494155f5.JPG)
 
 ## 4. Video
 
