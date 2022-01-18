@@ -87,8 +87,19 @@
 ![Cap 11 21-23](https://user-images.githubusercontent.com/93829962/149817396-3025f594-5f5d-4d78-8c08-77769ecf1915.JPG)
 ![Cap 11 25-27](https://user-images.githubusercontent.com/93829962/149817405-b9500f2e-0052-4098-84b9-e12eaa178107.JPG)
 ![Cap 11 29-31](https://user-images.githubusercontent.com/93829962/149817407-13f0fac6-02d0-44d3-a7ed-5438f2483976.JPG)
+  
+![Cap 11- Ej33](https://user-images.githubusercontent.com/93829976/149879707-1c2d9054-540c-4fa3-8e1b-e72af6f79b36.png)
+![Cap 11- Ej35](https://user-images.githubusercontent.com/93829976/149879726-1cc7631e-f1c5-416a-b360-671aee348895.png)
+![Cap 11- Ej37](https://user-images.githubusercontent.com/93829976/149879737-7fd6bafe-fdf9-4054-be19-79ccd2299577.png)
+![Cap 11- Ej39-41](https://user-images.githubusercontent.com/93829976/149879763-ad7fb571-15a0-4d88-86fb-9b591e6f02c5.png)
+![Cap 11- Ej43](https://user-images.githubusercontent.com/93829976/149879778-f55e19aa-69df-45c0-b1e5-50d32b78442a.png)
+![Cap 11- Ej45](https://user-images.githubusercontent.com/93829976/149879788-c363a95f-3290-49a8-9395-3ffefd5e4a75.png)
+
 
   ### Capítulo 12 - Ejercicios
+![Cap 12- Ej1-5](https://user-images.githubusercontent.com/93829976/149879811-d31b5b92-9c4c-48e0-ac4a-7879bf548ebb.png)
+![Cap 12- Ej7-11](https://user-images.githubusercontent.com/93829976/149879822-4b7cc470-a515-47bc-b054-4c4443ece13d.png)
+![Cap 12- Ej13-17](https://user-images.githubusercontent.com/93829976/149879828-7fa4dfaf-0e6d-4e89-ae2a-f4906ae5ba28.png)
 
 ![Cap 12 19-21](https://user-images.githubusercontent.com/93829962/149817439-1b6d18a8-215a-46fe-9826-6167e8f9c357.JPG)
 ![Cap 12 23-25](https://user-images.githubusercontent.com/93829962/149817454-b5c953f0-53ae-4d63-8a94-d856e602b793.JPG)
@@ -105,7 +116,7 @@
 
 
 ## 4. Video
-* https://www.youtube.com/watch?v=BhySvFE6els
+
 ## 5. Conclusiones
   * Tras finalizar la revisión teórica correspondiente al capítuilo 11 "Introducción a la corriente y al voltaje alternos" se concluye quela onda sinusoidal tiene gran importancia pues se presenta en voltajes y corrientes alternos y se puede determinar valores de frecuencia y periodo a partir del análisis de esta, además se dedujeron fórmulas que permitieron la resolución de losejercicios planteados como voltaje y corriente pico, pico a pico, promedio y rms. Otro punto clave para la comprensión de los conceptos son los grados y su conversión a radianes esto para su relación con  el ángulo de fase, la fórmula general de la onda cero así como las de su desplazamiento finalmente se estudió el voltaje de una onda cero así como la velocidad angular, ciclos de trabajo y valor promedio de una forma de onda pulsante. La realización de los ejercicios de aplicación requiere de la completa del contenido dispuesto pues la  descripción y orden del proceso es sumamente importante al momento de dar una respuesta, además de que se obtuvo la capacidad de interpretar el enunciado para aplicar los concimientos ya adquiridos.
   * 
