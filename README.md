@@ -79,6 +79,9 @@
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Introducción a la corriente y al voltaje alternos" y "Capacitores".
   
   ### Capítulo 11 - Ejercicios
+![11-1 5](https://user-images.githubusercontent.com/93786746/149876221-3a167caf-5854-416c-89bb-0cdef0cf46d9.PNG)
+![11-7 13](https://user-images.githubusercontent.com/93786746/149876236-3fdbd411-652f-4764-9ee9-09c3776e9f87.PNG)
+![11-15](https://user-images.githubusercontent.com/93786746/149876248-80d51bb8-e25c-4ba4-9d90-e446b35eeabf.PNG)
   
 ![Cap 11 17-19](https://user-images.githubusercontent.com/93829962/149817389-dcc40450-ebdc-4a85-ab79-bf9c51f36663.JPG)
 ![Cap 11 21-23](https://user-images.githubusercontent.com/93829962/149817396-3025f594-5f5d-4d78-8c08-77769ecf1915.JPG)
@@ -91,6 +94,15 @@
 ![Cap 12 23-25](https://user-images.githubusercontent.com/93829962/149817454-b5c953f0-53ae-4d63-8a94-d856e602b793.JPG)
 ![Cap 12 27-29](https://user-images.githubusercontent.com/93829962/149817457-e3ce50ed-843d-4ddb-a995-83569711ecca.JPG)
 ![Cap 12 31-33-35](https://user-images.githubusercontent.com/93829962/149817477-9a090f6f-f7e8-4437-bbf5-e116494155f5.JPG)
+![12-37](https://user-images.githubusercontent.com/93786746/149876255-7a0cb7ea-08a4-464c-a7b7-f97b75f9525c.PNG)
+![12-39](https://user-images.githubusercontent.com/93786746/149876259-6af65876-7c37-40a7-b458-cb68bffd6a82.PNG)
+![12-41](https://user-images.githubusercontent.com/93786746/149876272-29046b83-2fb2-42b0-8990-6abc8db63c9b.PNG)
+![12-43](https://user-images.githubusercontent.com/93786746/149876274-473fcf2e-5cad-4899-8015-1853f6c5a511.PNG)
+![12-45](https://user-images.githubusercontent.com/93786746/149876275-94af6e59-e448-4d6a-b003-b6f2ae4042fd.PNG)
+![12-47](https://user-images.githubusercontent.com/93786746/149876278-6eb1e823-9c1c-4888-8b4c-7a35938d96ba.PNG)
+![12-49](https://user-images.githubusercontent.com/93786746/149876279-91c731b3-fd88-49e9-8388-8e6f100a5cd8.PNG)
+![12-51](https://user-images.githubusercontent.com/93786746/149876280-2ce52e41-de58-4157-9e2c-cbaf4acbbc41.PNG)
+![12-53](https://user-images.githubusercontent.com/93786746/149876281-87e1fb10-6c01-427b-b5b7-f3302bfe640f.PNG)
 
 ## 4. Video
 
