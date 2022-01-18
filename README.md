@@ -51,10 +51,10 @@
   # CAPÍTULO 12: <p align=center> Capacitores
     
 ## <p align=center> 12.1 El capacitor básico
-
+![Subtema 12 1](https://user-images.githubusercontent.com/93829976/149872793-7f012da5-780f-4bd2-8e08-a2c71b785ecb.jpeg)
 
 ## <p align=center> 12.2 Tipos de capacitores 
-
+![Subtema 12 2](https://user-images.githubusercontent.com/93829976/149872807-0ffaaa59-4630-43bc-814c-2387c5f28e41.jpeg)
 
 ## <p align=center> 12.3 Capacitores en serie
 ![12 3](https://user-images.githubusercontent.com/93829962/149646432-5439dfff-e1f9-45b3-be3f-f9e134503c7e.jpeg)
