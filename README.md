@@ -40,10 +40,13 @@
 ![Subtema 11 7](https://user-images.githubusercontent.com/93829976/149705727-24d4066c-6455-42db-8a06-6d0d9a0abb82.jpeg)
 
 ## <p align=center> 11.8   Voltajes superpuestos de CD y de CA 
+![Subtema 11 8](https://user-images.githubusercontent.com/93829976/149865048-3b3d0ac3-323d-43be-91ae-18286c3ad2ce.jpeg)
   
 ## <p align=center> 11.9   Formas de onda no sinusoidales
+![Subtema 11 9](https://user-images.githubusercontent.com/93829976/149865061-e3baa6c8-24a2-4cd1-aac1-7731243b223f.jpeg)
   
 ## <p align=center> 11.10  El osciloscopio Una aplicación de circuito
+![Subtema 11 10](https://user-images.githubusercontent.com/93829976/149865083-417aaae0-1a78-46c8-a516-ce891cabee33.jpeg)
   
   # CAPÍTULO 12: <p align=center> Capacitores
     
