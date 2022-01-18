@@ -101,8 +101,8 @@
 ![12-45](https://user-images.githubusercontent.com/93786746/149876275-94af6e59-e448-4d6a-b003-b6f2ae4042fd.PNG)
 ![12-47](https://user-images.githubusercontent.com/93786746/149876278-6eb1e823-9c1c-4888-8b4c-7a35938d96ba.PNG)
 ![12-49](https://user-images.githubusercontent.com/93786746/149876279-91c731b3-fd88-49e9-8388-8e6f100a5cd8.PNG)
-![12-51](https://user-images.githubusercontent.com/93786746/149876280-2ce52e41-de58-4157-9e2c-cbaf4acbbc41.PNG)
-![12-53](https://user-images.githubusercontent.com/93786746/149876281-87e1fb10-6c01-427b-b5b7-f3302bfe640f.PNG)
+![12-51 53](https://user-images.githubusercontent.com/93786746/149876500-3b17103e-56de-46a9-baaf-5f564c7dd8d7.PNG)
+
 
 ## 4. Video
 
